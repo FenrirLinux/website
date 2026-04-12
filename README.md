@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FenrirOS Website
 
 Official website for [FenrirOS](https://fenrirlinux.org) — a gaming-focused Linux
@@ -40,3 +41,7 @@ and may not be used without permission.**
 - 🌐 Website: [fenrirlinux.org](https://fenrirlinux.org)
 - 🐺 ISO Repo: [github.com/FenrirLinux/iso](https://github.com/FenrirLinux/iso)
 - 💬 Discord: Coming soon
+=======
+# website
+The FenrirOS website 
+>>>>>>> 2f59dacfae8e04871bbcc838fd239fc61f87caf7
