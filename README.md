@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# FenrirOS Website
+# Fenrir Linux Website
 
-Official website for [FenrirOS](https://fenrirlinux.org) — a gaming-focused Linux
-distribution built on OpenRC and elogind. Unchained from systemd.
+Official website for [Fenrir Linux](https://fenrirlinux.org), a gaming-focused Linux
+distribution built on Artix (OpenRC + elogind) with the CachyOS kernel. Unchained from systemd.
 
 ## Stack
 
@@ -11,12 +10,12 @@ Just drop `index.html` and it works.
 
 ## Deployment
 
-This site is deployed via [Cloudflare Pages](https://pages.cloudflare.com) directly
-from this repository. Any push to `main` triggers an automatic deployment.
+The site is deployed with Cloudflare Workers static assets (`wrangler.jsonc`)
+directly from this repository. Any push to `main` triggers an automatic deployment.
 
 ## Development
 
-Clone the repo and open `index.html` in your browser — that's it.
+Clone the repo and open `index.html` in your browser. That's it.
 
 ```bash
 git clone https://github.com/FenrirLinux/website.git
@@ -27,13 +26,13 @@ xdg-open index.html
 ## Contributing
 
 Found a typo or want to suggest a change? Open an issue or pull request.
-Keep changes focused — this is a project website, not a playground.
+Keep changes focused. This is a project website, not a playground.
 
 ## License
 
 Website code is MIT licensed. See [LICENSE](./LICENSE) for details.
 
-**The FenrirOS name, logo, and branding are not covered by the MIT license
+**The Fenrir Linux name and branding are not covered by the MIT license
 and may not be used without permission.**
 
 ## Links
@@ -41,7 +40,3 @@ and may not be used without permission.**
 - 🌐 Website: [fenrirlinux.org](https://fenrirlinux.org)
 - 🐺 ISO Repo: [github.com/FenrirLinux/iso](https://github.com/FenrirLinux/iso)
 - 💬 Discord: Coming soon
-=======
-# website
-The FenrirOS website 
->>>>>>> 2f59dacfae8e04871bbcc838fd239fc61f87caf7
