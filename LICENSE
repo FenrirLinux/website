@@ -1,10 +1,6 @@
 MIT License
 
-<<<<<<< HEAD
-Copyright (c) 2025 Fenrir Linux
-=======
-Copyright (c) 2026 FenrirLinux
->>>>>>> 2f59dacfae8e04871bbcc838fd239fc61f87caf7
+Copyright (c) 2025-2026 Fenrir Linux
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,15 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-<<<<<<< HEAD
 
 ---
 
 BRANDING NOTICE
 
-The Fenrir Linux name, logo, wolf icon, and associated branding are NOT covered
+The Fenrir Linux name and associated branding are NOT covered
 by this license and remain the exclusive property of the Fenrir Linux project.
 You may not use the Fenrir Linux name or branding to represent a fork or
 derivative project without explicit written permission.
-=======
->>>>>>> 2f59dacfae8e04871bbcc838fd239fc61f87caf7
